@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What should happen when the 'Click Here' button is pressed?\", \"option1\": \"Redirect to another page\", \"option2\": \"Open a popup/modal\"}, {\"question 2\": \"Do you have a specific location in mind for the button on the screen?\", \"option1\": \"Top of the page\", \"option2\": \"Bottom of the page\"}], \"input_token_count\": 288, \"output_token_count\": 88, \"time_taken\": \"0:00:01.132073\"}",
+        "message_id": "guest03092024120120",
+        "timestamp": "03092024120124",
+        "component_file_name": "simple_footer_component_1725364832",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button labeled \"Click Here.\"",
         "message_id": "guest03092024120120",
