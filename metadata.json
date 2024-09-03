@@ -4,5 +4,6 @@
     "project_description": "an app for building car",
     "creation_time": "2024-09-03 12:00:30.306985",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a fantastical extraterrestrial landscape with a color scheme dominated by vibrant pinks, purples, and dark blues, creating a dreamy and surreal atmosphere. The style is highly illustrative with glowing celestial bodies and reflective surfaces accentuating the otherworldly ambiance."
 }
