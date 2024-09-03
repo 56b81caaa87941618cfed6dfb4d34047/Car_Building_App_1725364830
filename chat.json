@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button labeled \"Click Here.\"",
+        "message_id": "guest03092024120120",
+        "timestamp": "03092024120122",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with Click Here",
         "message_id": "guest03092024120120",
