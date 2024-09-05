@@ -5,7 +5,7 @@ INSTRUCTION: Both of these lines are center aligned.
 -->
 
 <template>
-    <footer id="footer-section" style="min-height: 550px" class="flex-1 bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg">
+    <footer id="footer-section" class="flex-1 bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg min-h-550px">
         <div id="footer-container" class="max-w-screen-xl p-8 py-10 mx-auto lg:py-16 md:p-12 lg:p-14">
             <hr id="footer-divider" class="my-8 border-pink-300 border-opacity-30 sm:mx-auto lg:my-10">
             <div id="footer-content" class="text-center">
@@ -21,7 +21,7 @@ INSTRUCTION: Both of these lines are center aligned.
                     © 2023 AutoCraft. Empowering automotive enthusiasts to build their dream cars.
                 </div>
                 <div class="flex-1 flex justify-center md:justify-end">
-                    <button class="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white font-bold py-3 px-6 rounded-full shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
+                    <button class="bg-gradient-to-r from-pink-500 to-purple-600 hover:from-pink-600 hover:to-purple-700 text-white font-bold py-3 px-6 rounded-full shadow-lg transform hover:scale-105 transition duration-300 ease-in-out backdrop-filter backdrop-blur-sm bg-opacity-70">
                         <i class='bx bx-rocket mr-2'></i>
                         Explore Now
                     </button>
